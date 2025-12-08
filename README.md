@@ -9,7 +9,6 @@
 💻 Exploring the world through code<br>
 🌟 On a journey of growth and creation<br>
 🔧 Learning and building one step at a time<br>
-🌱 Growing where I'm planted
 </p>
 
 ---
