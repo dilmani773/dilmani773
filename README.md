@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║
-██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║
-██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║
-██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝
-```
+![banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ3NzRiNTRlNmI4NzU5NzRlNDQ2ZjFiNzE5YTY0ZGY4NzZlMzRlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer+%F0%9F%A7%A0;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%CF%80+%E2%88%82;Model+to+deployment+%E2%80%94+end+to+end." alt="Typing SVG" />
 
