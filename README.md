@@ -1,22 +1,22 @@
 <div align="center">
 
 ```
-██╗  ██╗██╗██╗   ██╗██╗   ██╗███╗   ███╗██╗
-██║  ██║██║╚██╗ ██╔╝██║   ██║████╗ ████║██║
-███████║██║ ╚████╔╝ ██║   ██║██╔████╔██║██║
-██╔══██║██║  ╚██╔╝  ██║   ██║██║╚██╔╝██║██║
-██║  ██║██║   ██║   ╚██████╔╝██║ ╚═╝ ██║██║
-╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝
+██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║
+██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║
+██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║
+██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Building+one+commit+at+a+time+%E2%9A%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer+%F0%9F%A7%A0;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%CF%80+%E2%88%82;Model+to+deployment+%E2%80%94+end+to+end." alt="Typing SVG" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-0a0e1a?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:hiyumidilmani2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/dilmani773)
-[![Location](https://img.shields.io/badge/Sri_Lanka_🇱🇰-0a0e1a?style=for-the-badge&logoColor=00FF88)](https://github.com/dilmani773)
-[![Status](https://img.shields.io/badge/Open_to_Opportunities-00FF88?style=for-the-badge&logoColor=0a0e1a)](https://github.com/dilmani773)
+[![Gmail](https://img.shields.io/badge/Gmail-060a12?style=for-the-badge&logo=gmail&logoColor=7C6FFF)](mailto:hiyumidilmani2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-060a12?style=for-the-badge&logo=github&logoColor=7C6FFF)](https://github.com/dilmani773)
+[![University](https://img.shields.io/badge/Uni_of_Peradeniya-060a12?style=for-the-badge&logo=academia&logoColor=7C6FFF)](https://github.com/dilmani773)
+[![Sri Lanka](https://img.shields.io/badge/Sri_Lanka_🇱🇰-060a12?style=for-the-badge&logoColor=7C6FFF)](https://github.com/dilmani773)
 
 </div>
 
@@ -24,44 +24,72 @@
 
 ## `> whoami`
 
-```python
-class Hiyumi:
-    name        = "Hiyumi Dilmani"
-    university  = "University of Peradeniya 🎓"
-    degree      = "Computer Engineering"
-    role        = "Full-Stack Developer (in progress)"
-    location    = "Sri Lanka 🇱🇰"
-    email       = "hiyumidilmani2002@gmail.com"
+I'm drawn to the **mathematics behind intelligent systems** — the kind of understanding that goes deeper than running a model. I think about why loss functions converge, how gradients flow through layers, and what makes a neural network actually *learn*.
 
-    currently   = [
-        "Building full-stack projects from scratch",
-        "Deepening C++, Java & Python skills",
-        "Exploring databases and backend architecture",
-    ]
+On the engineering side, I can take ideas **from model to deployment** — building the data pipelines, training the system, and shipping it as a real application. Math-first thinking, full-stack execution.
 
-    philosophy  = "Code with purpose. Build with intent. Grow every day."
-```
+> 📍 University of Peradeniya · Computer Engineering · Sri Lanka 🇱🇰
 
 ---
 
-## `> ./tech-stack.sh`
+## `> cat expertise.log`
 
-<div align="center">
+| | Area | Details |
+|---|---|---|
+| 🧠 | **ML / AI** | Deep Learning · Neural Networks · Computer Vision · Image Processing |
+| ∑ | **Math Edge** | Linear Algebra · Calculus · Probability · Statistics · Optimization |
+| ⚡ | **Full Stack** | React · JavaScript · HTML · CSS · Java · Python · C++ |
+| 🔧 | **Infrastructure** | Docker · MySQL · Git · Linux |
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427B?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## `> ./stack.sh`
 
-</div>
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-060a12?style=for-the-badge&logo=python&logoColor=7C6FFF)
+![NumPy](https://img.shields.io/badge/NumPy-060a12?style=for-the-badge&logo=numpy&logoColor=7C6FFF)
+![Pandas](https://img.shields.io/badge/Pandas-060a12?style=for-the-badge&logo=pandas&logoColor=7C6FFF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-060a12?style=for-the-badge&logo=scikit-learn&logoColor=7C6FFF)
+![OpenCV](https://img.shields.io/badge/OpenCV-060a12?style=for-the-badge&logo=opencv&logoColor=7C6FFF)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-060a12?style=for-the-badge&logo=react&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-060a12?style=for-the-badge&logo=javascript&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-060a12?style=for-the-badge&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-060a12?style=for-the-badge&logo=css3&logoColor=58a6ff)
+
+**Backend & Languages**
+
+![Java](https://img.shields.io/badge/Java-060a12?style=for-the-badge&logo=openjdk&logoColor=2dd4bf)
+![C++](https://img.shields.io/badge/C++-060a12?style=for-the-badge&logo=cplusplus&logoColor=2dd4bf)
+![C](https://img.shields.io/badge/C-060a12?style=for-the-badge&logo=c&logoColor=2dd4bf)
+![MySQL](https://img.shields.io/badge/MySQL-060a12?style=for-the-badge&logo=mysql&logoColor=2dd4bf)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-060a12?style=for-the-badge&logo=docker&logoColor=f0b429)
+![Git](https://img.shields.io/badge/Git-060a12?style=for-the-badge&logo=git&logoColor=f0b429)
+![Linux](https://img.shields.io/badge/Linux-060a12?style=for-the-badge&logo=linux&logoColor=f0b429)
+![VS Code](https://img.shields.io/badge/VS_Code-060a12?style=for-the-badge&logo=visualstudiocode&logoColor=f0b429)
+
+---
+
+## `> echo $PHILOSOPHY`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Neural networks are compositions of functions.            ║
+║   Training is gradient descent in a loss landscape.         ║
+║   Attention is a weighted dot-product query.                 ║
+║                                                              ║
+║   I prefer to understand  WHY  before I use  HOW.           ║
+║   That's what separates engineers from practitioners.        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -69,15 +97,15 @@ class Hiyumi:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilmani773&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&title_color=00FF88&text_color=c9d1d9&icon_color=00FF88" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilmani773&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=060a12&title_color=7C6FFF&text_color=c9d1d9&icon_color=2dd4bf" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmani773&layout=compact&theme=merko&hide_border=true&bg_color=0a0e1a&title_color=00FF88&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmani773&layout=compact&hide_border=true&bg_color=060a12&title_color=7C6FFF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dilmani773&theme=dark&hide_border=true&background=0a0e1a&stroke=21262d&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=c9d1d9&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3)
+![GitHub Streak](https://streak-stats.demolab.com?user=dilmani773&theme=dark&hide_border=true&background=060a12&stroke=1a1f2e&ring=7C6FFF&fire=7C6FFF&currStreakLabel=7C6FFF&sideLabels=c9d1d9&dates=3d444d&currStreakNum=e6edf3&sideNums=e6edf3)
 
 </div>
 
@@ -87,7 +115,7 @@ class Hiyumi:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilmani773&bg_color=0a0e1a&color=00FF88&line=00FF88&point=58a6ff&area=true&area_color=00FF8820&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilmani773&bg_color=060a12&color=7C6FFF&line=7C6FFF&point=2dd4bf&area=true&area_color=7C6FFF20&hide_border=true)
 
 </div>
 
@@ -104,7 +132,7 @@ class Hiyumi:
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dilmani773&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS&abbreviated=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=dilmani773&style=for-the-badge&color=7C6FFF&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
@@ -114,9 +142,11 @@ class Hiyumi:
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  "Code with purpose. Build with intent.          ║
-║   Grow every day."                 — Hiyumi ⚡   ║
+║  "Understand the math. Master the model."        ║
+║                               — Hiyumi 🧠        ║
 ╚══════════════════════════════════════════════════╝
 ```
+
+*Building at the intersection of mathematics and intelligent systems.*
 
 </div>
