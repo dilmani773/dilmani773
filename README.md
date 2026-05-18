@@ -86,11 +86,11 @@ I can take an idea **from model to deployed app** — data pipelines, training t
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   Neural networks are compositions of functions.            ║
-║   Training is gradient descent in a loss landscape.         ║
+║   Neural networks are compositions of functions.             ║
+║   Training is gradient descent in a loss landscape.          ║
 ║   Attention is a weighted dot-product query.                 ║
 ║                                                              ║
-║   I prefer to understand  WHY  before I use  HOW.           ║
+║   I prefer to understand  WHY  before I use  HOW.            ║
 ║   That's what separates engineers from practitioners.        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
