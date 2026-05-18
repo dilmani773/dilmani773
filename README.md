@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer+%F0%9F%A7%A0;Neural+Networks+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%E2%88%82+%CF%80+%CE%BB;Model+to+deployment+%E2%80%94+end+to+end+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast+%F0%9F%A7%A0;ML+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%E2%88%82+%CF%80+%CE%BB;Undergraduate+%40+University+of+Peradeniya+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -148,7 +148,7 @@ I can take an idea **from model to deployed app** — data pipelines, training t
 ```
 ╔══════════════════════════════════════════════════╗
 ║  "Understand the math. Master the model."        ║
-║                               — Hiyumi 🧠        ║
+║                               — Hiyumi           ║
 ╚══════════════════════════════════════════════════╝
 ```
 
