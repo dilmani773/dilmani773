@@ -1,10 +1,12 @@
 <div align="center">
 
-![banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ3NzRiNTRlNmI4NzU5NzRlNDQ2ZjFiNzE5YTY0ZGY4NzZlMzRlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer+%F0%9F%A7%A0;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%CF%80+%E2%88%82;Model+to+deployment+%E2%80%94+end+to+end." alt="Typing SVG" />
+<img src="banner.svg" alt="Matrix rain banner" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7C6FFF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer+%F0%9F%A7%A0;Neural+Networks+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Math-first+mindset+%E2%88%91+%E2%88%82+%CF%80+%CE%BB;Model+to+deployment+%E2%80%94+end+to+end+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-060a12?style=for-the-badge&logo=gmail&logoColor=7C6FFF)](mailto:hiyumidilmani2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-060a12?style=for-the-badge&logo=github&logoColor=7C6FFF)](https://github.com/dilmani773)
@@ -17,28 +19,36 @@
 
 ## `> whoami`
 
-I'm drawn to the **mathematics behind intelligent systems** — the kind of understanding that goes deeper than running a model. I think about why loss functions converge, how gradients flow through layers, and what makes a neural network actually *learn*.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-On the engineering side, I can take ideas **from model to deployment** — building the data pipelines, training the system, and shipping it as a real application. Math-first thinking, full-stack execution.
+I'm drawn to the **mathematics behind intelligent systems** — not just running models, but understanding why they work. Gradient descent, backpropagation, convolutions — I want the intuition, not just the API.
 
-> 📍 University of Peradeniya · Computer Engineering · Sri Lanka 🇱🇰
+I can take an idea **from model to deployed app** — data pipelines, training the system, and shipping it as something real. Math-first thinking, full-stack execution.
 
----
+</td>
+<td width="45%" valign="top">
 
-## `> cat expertise.log`
+| | |
+|---|---|
+| 🎓 | Computer Engineering @ Uni of Peradeniya |
+| 🔭 | ML · Deep Learning · Computer Vision |
+| ∑ | Loves maths more than most people love anything |
+| 🌍 | Sri Lanka 🇱🇰 |
+| 🚀 | Building intelligent systems end-to-end |
 
-| | Area | Details |
-|---|---|---|
-| 🧠 | **ML / AI** | Deep Learning · Neural Networks · Computer Vision · Image Processing |
-| ∑ | **Math Edge** | Linear Algebra · Calculus · Probability · Statistics · Optimization |
-| ⚡ | **Full Stack** | React · JavaScript · HTML · CSS · Java · Python · C++ |
-| 🔧 | **Infrastructure** | Docker · MySQL · Git · Linux |
+</td>
+</tr>
+</table>
 
 ---
 
 ## `> ./stack.sh`
 
-**AI / ML**
+<div align="center">
+
+**🧠 AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-060a12?style=for-the-badge&logo=python&logoColor=7C6FFF)
 ![NumPy](https://img.shields.io/badge/NumPy-060a12?style=for-the-badge&logo=numpy&logoColor=7C6FFF)
@@ -46,26 +56,28 @@ On the engineering side, I can take ideas **from model to deployment** — build
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-060a12?style=for-the-badge&logo=scikit-learn&logoColor=7C6FFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-060a12?style=for-the-badge&logo=opencv&logoColor=7C6FFF)
 
-**Frontend**
+**⚡ Frontend**
 
 ![React](https://img.shields.io/badge/React-060a12?style=for-the-badge&logo=react&logoColor=58a6ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-060a12?style=for-the-badge&logo=javascript&logoColor=58a6ff)
 ![HTML5](https://img.shields.io/badge/HTML5-060a12?style=for-the-badge&logo=html5&logoColor=58a6ff)
 ![CSS3](https://img.shields.io/badge/CSS3-060a12?style=for-the-badge&logo=css3&logoColor=58a6ff)
 
-**Backend & Languages**
+**🔩 Backend & Languages**
 
 ![Java](https://img.shields.io/badge/Java-060a12?style=for-the-badge&logo=openjdk&logoColor=2dd4bf)
 ![C++](https://img.shields.io/badge/C++-060a12?style=for-the-badge&logo=cplusplus&logoColor=2dd4bf)
 ![C](https://img.shields.io/badge/C-060a12?style=for-the-badge&logo=c&logoColor=2dd4bf)
 ![MySQL](https://img.shields.io/badge/MySQL-060a12?style=for-the-badge&logo=mysql&logoColor=2dd4bf)
 
-**DevOps & Tools**
+**🔧 DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-060a12?style=for-the-badge&logo=docker&logoColor=f0b429)
 ![Git](https://img.shields.io/badge/Git-060a12?style=for-the-badge&logo=git&logoColor=f0b429)
 ![Linux](https://img.shields.io/badge/Linux-060a12?style=for-the-badge&logo=linux&logoColor=f0b429)
 ![VS Code](https://img.shields.io/badge/VS_Code-060a12?style=for-the-badge&logo=visualstudiocode&logoColor=f0b429)
+
+</div>
 
 ---
 
@@ -120,8 +132,8 @@ On the engineering side, I can take ideas **from model to deployment** — build
 
 | Channel | Link |
 |:-------:|:----:|
-| 📧 Email | [hiyumidilmani2002@gmail.com](mailto:hiyumidilmani2002@gmail.com) |
-| 🐙 GitHub | [github.com/dilmani773](https://github.com/dilmani773) |
+| Email | [e21453@eng.pdn.ac.lk](mailto:e21453@eng.pdn.ac.lk) |
+| GitHub | [github.com/dilmani773](https://github.com/dilmani773) |
 
 <br/>
 
